@@ -74,6 +74,10 @@
                                     <listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
                                     									
                                     <listOptionValue builtIn="false" value="STM32F411xE"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="USER_VECT_TAB_ADDRESS"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="VECT_TAB_OFFSET=0x8078000"/>
                                     								
                                 </option>
                                 								
